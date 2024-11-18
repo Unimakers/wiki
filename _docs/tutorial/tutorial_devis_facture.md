@@ -34,7 +34,7 @@ todo: 100
 # le devis
 
 ## Introduction
-Lorseque l'association souhaite effectuer une préstation, elle se doit de faire une démarche d'au moins 3 documents
+Lorsque l'association souhaite effectuer une préstation, elle se doit de faire une démarche d'au moins 3 documents
 
 1. devis
 2. bon pour commande
@@ -46,16 +46,12 @@ cela permet de proteger l'association dans des cas précis comme une analyse des
 {% include message.html title="Défintion: Devis" message="> État détaillé, établi par les fournisseurs, des travaux à exécuter, dans lequel on indique les modalités de leur exécution, la nature, la dimension et le volume des matériaux à utiliser, le prix de chacun et l’évaluation de la dépense totale -Dictionaire de l'Académie française" status="is-info" icon="fas fa-info-circle" %}
 https://www.dictionnaire-academie.fr/article/A9D2245
 
-
-{% include message.html title="Défintion: Facture" message="> Mémoire établi par le vendeur, dans lequel sont détaillés la nature, la quantité, le prix des marchandises livrées ou des services fournis -Dictionaire de l'Académie française" status="is-info" icon="fas fa-info-circle" %}
-
-
 ## Comment faire une devis
 Sur le drive, dans la partie administration, aller dans Fichier->Finances->Gestion comptable> aide_Facture et faire "copier dans".
 
-diriger le vers les finances de l'année actuelle.
+Diriger le vers les finances de l'année actuelle.
 
-Rennomez la DEVIS|Année|mois|jour|-|numéro
+Rennomez la "DEVIS Année mois jour - numéro"
 
 Le numéro s'incremente si vous faites plusieurs devis le même jour.
 
@@ -76,12 +72,12 @@ Ouvrez ce fichier pour completer le devis:
 
 * ZONE D :
     Vérifiez le total avant de générer le devis
+![ABCDdufacture](./ABCDufacture.png)
+
 
 ## Le resultat
 
 Vous enverez le devis sous format PDF
-
-
 
 # Le bon pour commande
 
@@ -95,4 +91,10 @@ Vous pouvez aussi joindre ce document au devis pour avoir plus propre.
 <embed src="./Template-Bon-pour-accord.pdf" type="application/pdf" width="600" height="400">
 
 
+# La facture
+La facture est identique au dernier devis de la commande, et elle est envoyée après la reception du Bon pour commande
 
+{% include message.html title="Défintion: Facture" message="> Mémoire établi par le vendeur, dans lequel sont détaillés la nature, la quantité, le prix des marchandises livrées ou des services fournis -Dictionaire de l'Académie française" status="is-info" icon="fas fa-info-circle" %}
+
+
+Pour generer le devis, changez les élements signalant un devis vers facture sur le fichier excel, puis générer votre PDF

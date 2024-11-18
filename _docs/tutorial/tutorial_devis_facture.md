@@ -90,9 +90,9 @@ Vous enverez le devis sous format PDF
 le bon pour commande sert de confimation pour les 2 parties que la commande a bien été lancée et ne peut plus etre annulée (sauf cas exceptionnel)
 c'est le client qui signe le devis avec ecrit bon pour commande, la date, et le lieu.
 Vous pouvez aussi joindre ce document au devis pour avoir plus propre.
-[Bon pour commande](./tutorial_devis_facture/Template_Bon_pour_accord.pdf)
+[Bon pour commande](./Template_Bon_pour_accord.pdf)
 
-<embed src="./tutorial_devis_facture/Template_Bon_pour_accord.pdf" type="application/pdf" width="600" height="400">
+<embed src="./Template_Bon_pour_accord.pdf" type="application/pdf" width="600" height="400">
 
 
 

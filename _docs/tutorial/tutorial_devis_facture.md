@@ -31,78 +31,64 @@ hardwares:
 
 todo: 100
 ---
-# le devis
+# Le devis
 
 ## Introduction
-Lorsque l'association souhaite effectuer une préstation, elle se doit de faire une démarche d'au moins 3 documents
+Lorsque l'association souhaite effectuer une prestation, elle se doit de suivre une démarche comprenant au moins trois documents :
 
-1. devis
-2. bon pour commande
-3. facture
+1. Devis
+2. Bon pour commande
+3. Facture
 
-cela permet de proteger l'association dans des cas précis comme une analyse des financiere, reclamation client, ectect.
+Cela permet de protéger l'association dans des cas précis comme une analyse financière, une réclamation client, etc.
 
+{% include message.html title="Définition: Devis" message="> État détaillé, établi par les fournisseurs, des travaux à exécuter, dans lequel on indique les modalités de leur exécution, la nature, la dimension et le volume des matériaux à utiliser, le prix de chacun et l’évaluation de la dépense totale - Dictionnaire de l'Académie française" status="is-info" icon="fas fa-info-circle" %}
+[Source](https://www.dictionnaire-academie.fr/article/A9D2245)
 
-{% include message.html title="Défintion: Devis" message="> État détaillé, établi par les fournisseurs, des travaux à exécuter, dans lequel on indique les modalités de leur exécution, la nature, la dimension et le volume des matériaux à utiliser, le prix de chacun et l’évaluation de la dépense totale -Dictionaire de l'Académie française" status="is-info" icon="fas fa-info-circle" %}
-https://www.dictionnaire-academie.fr/article/A9D2245
+## Comment faire un devis
+Sur le teams, dans la partie administration, aller dans Fichier -> Finances -> Gestion comptable -> aide_Facture et faire "copier dans".
 
-## Comment faire une devis
-Sur le drive, dans la partie administration, aller dans Fichier->Finances->Gestion comptable> aide_Facture et faire "copier dans".
+Dirigez-le vers les finances de l'année actuelle.
 
-Diriger le vers les finances de l'année actuelle.
+Renommez-le "DEVIS Année mois jour - numéro".
 
-Rennomez la "DEVIS Année mois jour - numéro"
+Le numéro s'incrémente si vous faites plusieurs devis le même jour.
 
-Le numéro s'incremente si vous faites plusieurs devis le même jour.
+Ouvrez ce fichier pour compléter le devis :
 
-Ouvrez ce fichier pour completer le devis:
+* **ZONE A :**
+    - Ref : la référence du devis. C’est la même que le nom de fichier (voir plus haut).
+    - Date : la date à laquelle vous éditez votre devis.
+    - Date d'échéance : elle est calculée automatiquement. Ne pas changer.
+* **ZONE B :**
+    - Complétez avec l’adresse complète du client. Si nécessaire, rajoutez le nom du contact, un téléphone et une adresse mail si vous l'avez.
+* **ZONE C :**
+    - Indiquez les différentes prestations réalisées.
+    - Indiquez le Prix Unitaire HT.
+    - Indiquez la quantité.
 
-* ZONE A :
-    Ref : la référence du devis. C’est la même que le nom de fichier (voir plus haut)
+{% include message.html title="ATTENTION" message="Laissez la TVA à 0% car vous êtes une association et la TVA est non-applicable (article 293 B du CGI)" status="is-danger" icon="fas fa-exclamation-triangle" %}
 
-    Date : la date à laquelle vous éditez votre devis
-
-    Date d'échéance : elle est calculée automatiquement. Ne pas changer
-* ZONE B :
-    Complétez avec l’adresse complète du client. Si nécessaire rajouter le nom du contact, un téléphone et une adresse mail si vous l'avez.
-* ZONE C :
-    Indiquez les différentes prestations réalisées
-
-    Indiquez le Prix Unitaire HT
-
-    Indiquez la quantité
-
-{% include message.html title="ATTENTION" message=" laissez la TVA à 0% car vous êtes une association et la TVA est non-applicable (article 293 B du CGI)" status="is-danger" icon="fas fa-exclamation-triangle" %}
-
-* ZONE D :
-    Vérifiez le total avant de générer le devis
+* **ZONE D :**
+    - Vérifiez le total avant de générer le devis.
 ![ABCDdufacture](./ABCDufacture.png)
 
-
-## Le resultat
-
-Vous enverez le devis sous format PDF
+## Le résultat
+Vous enverrez le devis sous format PDF.
 
 # Le bon pour commande
 
-## a quoi sert t'elle?
-
-le bon pour commande sert de confimation pour les 2 parties que la commande a bien été lancée et ne peut plus etre annulée (sauf cas exceptionnel)
-c'est le client qui signe le devis avec ecrit bon pour commande, la date, et le lieu.
-Vous pouvez aussi joindre ce document au devis pour avoir plus propre.
+## À quoi sert-il ?
+Le bon pour commande sert de confirmation pour les deux parties que la commande a bien été lancée et ne peut plus être annulée (sauf cas exceptionnel). C'est le client qui signe le devis avec écrit "bon pour commande", la date et le lieu. Vous pouvez aussi joindre ce document au devis pour plus de clarté.
 [Bon pour commande](./Template-Bon-pour-accord.pdf)
 
 <embed src="./Template-Bon-pour-accord.pdf" type="application/pdf" width="600" height="400">
 
-
 # La facture
-La facture est identique au dernier devis de la commande, et elle est envoyée après la reception du Bon pour commande
+La facture est identique au dernier devis de la commande, et elle est envoyée après la réception du bon pour commande.
 
-{% include message.html title="Défintion: Facture" message="> Mémoire établi par le vendeur, dans lequel sont détaillés la nature, la quantité, le prix des marchandises livrées ou des services fournis -Dictionaire de l'Académie française" status="is-info" icon="fas fa-info-circle" %}
+{% include message.html title="Définition: Facture" message="> Mémoire établi par le vendeur, dans lequel sont détaillés la nature, la quantité, le prix des marchandises livrées ou des services fournis - Dictionnaire de l'Académie française" status="is-info" icon="fas fa-info-circle" %}
 
+Pour générer la facture, changez les éléments signalant un devis vers facture sur le fichier Excel, puis générez votre PDF.
 
-Pour générer le devis, changez les élements signalant un devis vers facture sur le fichier excel, puis générer votre PDF
-
-
-
-> nota bene, n'hesitez pas a voir comment sont fait le factures dans le passé
+> Nota bene : n'hésitez pas à consulter les factures passées pour voir comment elles sont faites.

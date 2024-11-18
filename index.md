@@ -1,6 +1,6 @@
 ---
-title: Craft The Docs
-subtitle: Template de site pour réaliser de la documentation
+title: Wiki-Unimakers
+subtitle: Wiki-Unimakers pour tout vos questions
 layout: page
 hero_height: is-large
 hero_darken: true

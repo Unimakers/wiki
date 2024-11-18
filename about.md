@@ -9,7 +9,7 @@ title: À propos du Projet
 subtitle: Informations générales sur ce projet
 ---
 
-## À propos du projet
+## À propos du wiki
 
 Ce projet vise à [décrire l’objectif principal du projet ici, par exemple : "développer une machine de dessin automatisée" ou "mettre en place un système de suivi pour les étudiants"]. Il s'agit d'une initiative qui combine innovation et apprentissage technique.
 

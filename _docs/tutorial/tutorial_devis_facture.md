@@ -48,6 +48,8 @@ Cela permet de protéger l'association dans des cas précis comme une analyse fi
 ## Comment faire un devis
 Sur le teams, dans la partie administration, aller dans Fichier -> Finances -> Gestion comptable -> aide_Facture et faire "copier dans".
 
+![Emplacement](tutorial_devis_facture/Emplacement.png)
+
 Dirigez-le vers les finances de l'année actuelle.
 
 Renommez-le "DEVIS Année mois jour - numéro".

@@ -1,5 +1,7 @@
 - name: Informations
   link: /informations/
+- name: CRs
+  link: /comptes-rendus/
 - name: Tutoriels
   link: 
   dropdown: 

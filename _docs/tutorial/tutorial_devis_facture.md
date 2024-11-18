@@ -3,7 +3,7 @@ layout: documentation
 hide_hero: false
 hero_image: "placeholder.png"
 hero_darken: true
-image: "placeholder.png"
+image: "DevisCari.jpg"
 component_toc: true
 doc_header: true
 type: tutorial
@@ -59,13 +59,17 @@ Ouvrez ce fichier pour completer le devis:
 
 * ZONE A :
     Ref : la référence du devis. C’est la même que le nom de fichier (voir plus haut)
+
     Date : la date à laquelle vous éditez votre devis
+
     Date d'échéance : elle est calculée automatiquement. Ne pas changer
 * ZONE B :
     Complétez avec l’adresse complète du client. Si nécessaire rajouter le nom du contact, un téléphone et une adresse mail si vous l'avez.
 * ZONE C :
     Indiquez les différentes prestations réalisées
+
     Indiquez le Prix Unitaire HT
+
     Indiquez la quantité
 
 {% include message.html title="ATTENTION" message=" laissez la TVA à 0% car vous êtes une association et la TVA est non-applicable (article 293 B du CGI)" status="is-danger" icon="fas fa-exclamation-triangle" %}

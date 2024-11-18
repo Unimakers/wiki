@@ -97,4 +97,8 @@ La facture est identique au dernier devis de la commande, et elle est envoyée a
 {% include message.html title="Défintion: Facture" message="> Mémoire établi par le vendeur, dans lequel sont détaillés la nature, la quantité, le prix des marchandises livrées ou des services fournis -Dictionaire de l'Académie française" status="is-info" icon="fas fa-info-circle" %}
 
 
-Pour generer le devis, changez les élements signalant un devis vers facture sur le fichier excel, puis générer votre PDF
+Pour générer le devis, changez les élements signalant un devis vers facture sur le fichier excel, puis générer votre PDF
+
+
+
+> nota bene, n'hesitez pas a voir comment sont fait le factures dans le passé

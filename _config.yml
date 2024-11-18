@@ -7,7 +7,7 @@ force_theme: light
 permalink: pretty
 footer_menu: footer_navigation
 lang: fr
-theme_color: '#ef2e31'
+theme_color: '#2D2D36'
 fixed_navbar: top
 favicon: favicon.png
 

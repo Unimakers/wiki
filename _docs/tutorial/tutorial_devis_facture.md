@@ -31,15 +31,16 @@ hardwares:
 
 todo: 100
 ---
+# le devis
 
 ## Introduction
-Lorseque l'association souhaite effectuer une préstation, elle se doit de faire une démarche de faire au moins 3 documents
+Lorseque l'association souhaite effectuer une préstation, elle se doit de faire une démarche d'au moins 3 documents
 
 1. devis
 2. bon pour commande
 3. facture
 
-cela permet de proteger l'association dans des cas précis comme une analyse des finances, 
+cela permet de proteger l'association dans des cas précis comme une analyse des financiere, reclamation client, ectect.
 
 
 {% include message.html title="Défintion: Devis" message="> État détaillé, établi par les fournisseurs, des travaux à exécuter, dans lequel on indique les modalités de leur exécution, la nature, la dimension et le volume des matériaux à utiliser, le prix de chacun et l’évaluation de la dépense totale -Dictionaire de l'Académie française" status="is-info" icon="fas fa-info-circle" %}
@@ -50,14 +51,15 @@ https://www.dictionnaire-academie.fr/article/A9D2245
 
 
 ## Comment faire une devis
-Sur le drive, dans la partie administration, aller dans Fichier->Finances->Gestion comptable6> aide_Facture et faire "copier dans"
+Sur le drive, dans la partie administration, aller dans Fichier->Finances->Gestion comptable> aide_Facture et faire "copier dans".
 
 diriger le vers les finances de l'année actuelle.
 
 Rennomez la DEVIS|Année|mois|jour|-|numéro
-Le numéro s'incremente si vous faites plusieurs devis le même jour
 
-ouvrez ce fichier pour completer le devis:
+Le numéro s'incremente si vous faites plusieurs devis le même jour.
+
+Ouvrez ce fichier pour completer le devis:
 
 * ZONE A :
     Ref : la référence du devis. C’est la même que le nom de fichier (voir plus haut)
@@ -77,5 +79,20 @@ ouvrez ce fichier pour completer le devis:
 
 ## Le resultat
 
-Vous enverez le devis sous format PDF avec un RIB du compte de l'association en cas de payement par virement.
+Vous enverez le devis sous format PDF
+
+
+
+# Le bon pour commande
+
+## a quoi sert t'elle?
+
+le bon pour commande sert de confimation pour les 2 parties que la commande a bien été lancée et ne peut plus etre annulée (sauf cas exceptionnel)
+c'est le client qui signe le devis avec ecrit bon pour commande, la date, et le lieu.
+Vous pouvez aussi joindre ce document au devis pour avoir plus propre.
+[Bon pour commande](./tutorial_devis_facture/Template_Bon_pour_accord.pdf)
+
+<embed src="./tutorial_devis_facture/Template_Bon_pour_accord.pdf" type="application/pdf" width="600" height="400">
+
+
 

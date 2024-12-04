@@ -9,8 +9,8 @@ doc_header: true
 type: tutorial
 
 title: Tutoriel Devis
-subtitle: Suivez ces étapes pour faire une Devis
-description: Ce tutoriel explique les étapes de base pour réaliser une Devis.
+subtitle: Suivez ces étapes pour faire un Devis
+description: Ce tutoriel explique les étapes de base pour réaliser un Devis.
 author: Looij Dylan
 
 time: 2
@@ -48,7 +48,7 @@ Cela permet de protéger l'association dans des cas précis comme une analyse fi
 ## Comment faire un devis
 Sur le teams, dans la partie administration, aller dans Fichier -> Finances -> Gestion comptable -> aide_Facture et faire "copier dans".
 
-![Emplacement](tutorial_devis_facture/Emplacement.png)
+![Emplacement](Emplacement.png)
 
 Dirigez-le vers les finances de l'année actuelle.
 
@@ -73,7 +73,7 @@ Ouvrez ce fichier pour compléter le devis :
 
 * **ZONE D :**
     - Vérifiez le total avant de générer le devis.
-![ABCDdufacture](./ABCDufacture.png)
+![ABCDdufacture](ABCDufacture.png)
 
 ## Le résultat
 Vous enverrez le devis sous format PDF.
@@ -82,7 +82,7 @@ Vous enverrez le devis sous format PDF.
 
 ## À quoi sert-il ?
 Le bon pour commande sert de confirmation pour les deux parties que la commande a bien été lancée et ne peut plus être annulée (sauf cas exceptionnel). C'est le client qui signe le devis avec écrit "bon pour commande", la date et le lieu. Vous pouvez aussi joindre ce document au devis pour plus de clarté.
-[Bon pour commande](./Template-Bon-pour-accord.pdf)
+[Bon pour commande](Template-Bon-pour-accord.pdf)
 
 <embed src="./Template-Bon-pour-accord.pdf" type="application/pdf" width="600" height="400">
 

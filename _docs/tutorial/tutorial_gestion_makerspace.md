@@ -57,7 +57,7 @@ L'association a accès à tout le MakerSpace avec des clefs spéciales.
 
 ### Comment fermer le makerspace ?
 
-- Rendez-vous au fond du couloir et commencez par fermer les fenêtres, vérifiez que les appareils sont éteints.
+- Rendez-vous au fond du couloir et commencez par fermer les fenêtres, vérifiez que les appareils sont éteints, puis fermez la porte.
 - Fermez les portes de stockage.
 - Avancez dans le couloir et répétez les étapes pour toutes les salles du makerspace.
 

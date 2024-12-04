@@ -1,9 +1,9 @@
 ---
 layout: documentation
 hide_hero: false
-hero_image: "placeholder.png"
+hero_image: "MakerSpace.png"
 hero_darken: true
-image: "placeholder.jpg"
+image: "MakerSpace.png"
 component_toc: true
 doc_header: true
 type: tutorial

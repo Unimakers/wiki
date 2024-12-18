@@ -10,7 +10,7 @@ type: tutorial
 
 title: Tutoriel rédaction de compte rendu
 subtitle: pour résumer vos reunion
-description: Ce tutoriel explique comment bient rédiger une compte rendu pour unimakers.
+description: Ce tutoriel explique comment bien rédiger une compte rendu pour unimakers.
 author: Looij Dylan
 
 time: 1
@@ -24,7 +24,7 @@ prerequisites:
 softwares: 
   - label: Word
     link: ""
-todo: 50
+todo: 100
 ---
 
 # Comment Rédiger un compte Rendu Unimakers

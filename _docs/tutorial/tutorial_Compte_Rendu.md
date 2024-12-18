@@ -1,16 +1,16 @@
 ---
 layout: documentation
 hide_hero: false
-hero_image: "placeholder.png"
+hero_image: "report.svg"
 hero_darken: true
-image: "placeholder.png"
+image: "report.svg"
 component_toc: true
 doc_header: true
 type: tutorial
 
 title: Tutoriel rédaction de compte rendu
 subtitle: pour résumer vos reunion
-description: Ce tutoriel explique comment bient rédiger une compte rendu pour unimakers.
+description: Ce tutoriel explique comment rédiger une compte rendu pour unimakers.
 author: Looij Dylan
 
 time: 1
@@ -40,11 +40,7 @@ Le compte rendu sert de tracé de ce qu'on a dit lors d'une réunion, il fait of
 Elle permet aussi au personnes absentes de prendre information de quoi on a parlé pendant la réunion.
 
 
-
-
-
-
-{% include message.html title="Contrat d'étude" message=" Pour ceux qui on demandé et eu un contrat d'étude, les comptes rendus peuvent vous servir de justificatif de travail" status="is-info" icon="fas fa-info-circle" %}
+{% include message.html title="Contrat d'étude" message=" Pour ceux qui on demandé et on eu un contrat d'étude, les comptes rendus peuvent vous servir de justificatif de travail" status="is-info" icon="fas fa-info-circle" %}
 
 ## Le template
 

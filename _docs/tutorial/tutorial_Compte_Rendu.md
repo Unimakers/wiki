@@ -1,9 +1,9 @@
 ---
 layout: documentation
 hide_hero: false
-hero_image: "placeholder.png"
+hero_image: "result.png"
 hero_darken: true
-image: "placeholder.png"
+image: "result.png"
 component_toc: true
 doc_header: true
 type: tutorial

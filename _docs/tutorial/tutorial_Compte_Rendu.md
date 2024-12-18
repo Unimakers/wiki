@@ -1,16 +1,16 @@
 ---
 layout: documentation
 hide_hero: false
-hero_image: "report.svg"
+hero_image: "result.png"
 hero_darken: true
-image: "report.svg"
+image: "result.png"
 component_toc: true
 doc_header: true
 type: tutorial
 
 title: Tutoriel rédaction de compte rendu
 subtitle: pour résumer vos reunion
-description: Ce tutoriel explique comment rédiger une compte rendu pour unimakers.
+description: Ce tutoriel explique comment bien rédiger une compte rendu pour unimakers.
 author: Looij Dylan
 
 time: 1
@@ -24,7 +24,7 @@ prerequisites:
 softwares: 
   - label: Word
     link: ""
-todo: 50
+todo: 100
 ---
 
 # Comment Rédiger un compte Rendu Unimakers

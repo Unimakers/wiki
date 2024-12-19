@@ -1,9 +1,9 @@
 ---
 layout: documentation
 hide_hero: false
-hero_image: "result.png"
+hero_image: "BudgetP.png"
 hero_darken: true
-image: "result.png"
+image: "BudgetP.png"
 component_toc: true
 doc_header: true
 type: tutorial
@@ -30,7 +30,7 @@ todo: 50
 # Le buget prévisionel
 
 Donc vous faitez les finances de l'asso, ou vous etez simplement chargée de faire le budget prévisionel, et vous allez constituer le budget prévisionel de l'année, ou pour un évenement précis,
-mais vous ne savez pas comment faire, n'ai crainte, personne ne sait réelement ce que c'est, et c'est le but, c'est un budget "prévisionel", jusqu'a prouvé le contraire, tu ne peux pas prédire a l'exactitude
+mais vous ne savez pas comment faire, n'ai crainte, personne ne sait réelement ce que c'est, et c'est le but, c'est un budget "prévisionel", jusqu'a preuve du contraire, vous ne pouvez pas prédire a l'exactitude
 le futur, donc tu va faire des estimations de dépenses et de recettes, et ce seront les lignes de guide que vous suivrai tout au long de l'année associatif
 
 {% include message.html title="Définition" message=">Le budget prévisionnel est un état comptable qui permet de prévoir les recettes et les dépenses d’une entreprise sur un exercice comptable. 
@@ -53,4 +53,15 @@ Séparer les depenses et les recettes par des thématique du type:
 
 ## Mise en oeuvre
 
-Ouvrez excel, puis 
+Ouvrez excel, puis faitez 3 collones, une pour le descriptif, une pour les dépenses et une pour les recettes, comme l'image suivante
+
+![Exemple de budget previsionel](ExempleDeBP.png)
+
+
+## Details
+
+Quand vous avez décidée d'un prix pour un certain action, gonflez ce prix d'environ 20%, cela permet d'inclure les imprévu et aussi d'argumenter devant un sponso le besoin d'argent
+
+Ne détaillez pas les prix, ce n'est pas le but du document, le but est réelement de donner une vision globale de ce qu'on peux attendre de l'année, et comment on répartira les fonds.
+
+

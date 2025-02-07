@@ -55,8 +55,10 @@ En ce qui concerne la demande, voici un exemple de mail de demande de sponsoring
 ## Communication sur le sponsoring
 
 Lorsqu'un contrat est renouvellé ou acquit, une communication sur le dit contrat doit être effectuée. Elle est faite en lien avec le pôle communication de l'association afin de faire un post (généralement LinkedIn) avec une mise à jour du site sur la liste des sponsors.
-Une communication des services fournis par nos sponsors (s'il y en a et qu'ils sont pertinents) sont indiqués sur le site et également à nos adhérents.
+Les services fournis par nos sponsors (s'il y en a et qu'ils sont pertinents) sont indiqués sur le site et également à nos adhérents par l'intermédiaire du discord.
 
-## Quelques astuces
+{% include message.html title="Quelques Astuces" message="- N'hésitez à vous inspirez des différents mails présentés.
+- Déléguer des tâches aux autres membres s'il souhaite aider et qu'il y a beaucoup de travail." status="is-info" icon="fas fa-info-circle" %}
+
 
 (à compléter)

@@ -48,13 +48,15 @@ elle doit comporter l'ordre du jour, la date, l'heure, et le lieu de l'événeme
 
 voici un template de convocation   
 
-```
-/// mettre template de convocation
+![Image de convocation](ModeldeConvoc.png)
 
-```
+[Téléchargez ce template](Convocation pour AG.dotx)
+
 ### Quorum
 
 C'est un nombre minimale d'adhérent qui doivent etre présent pour qu'une assemblée générale soit valide, la valeur est prévu par les statuts, si ce nombre n'est pas atteind, l'association se doit de replanifier une nouvelle AG
+
+> note: A l'écriture du tutoriel, Unimakers n'a pas de Quorum de prévu dans ses statuts... interpretation libre aux intérésée
 
 ### L'assemblée générale ordinaire
 
@@ -83,6 +85,8 @@ n'hésitez pas a prendre exemple sur les PV des années précedentes.
 ### l'assemblée générale Extraordinaire
 En cas de besoin, un membre de l'association peux déclencher un assemblée générale Extraordinaire, l'oganisation se passe comme une assemblée generale ordianire, a l'expception de l'odre du jour qui n'est pas la même.
 Verfiez vos status pour voir ces détails.
+
+>Pour Unimakers, l'AGE sert de moment de modification de statuts
 
 Un compte rendu est exigée, et un pv peut etre nécéssaire.
 

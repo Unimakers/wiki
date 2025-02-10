@@ -5,4 +5,5 @@ layout: documentation-category
 type: tutorial
 show_sidebar: false
 hero_height: is-small
+doc_header: false
 ---

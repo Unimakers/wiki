@@ -3,8 +3,5 @@
 - name: CRs
   link: /comptes-rendus/
 - name: Tutoriels
-  link: 
-  dropdown: 
-    - name: Tutoriels
-      link: /tutorials/
+  link: /tutorials/
     

@@ -57,12 +57,11 @@ L'association a accès à tout le MakerSpace avec des clefs spéciales.
 
 ### Comment fermer le makerspace ?
 
-- Rendez-vous au fond du couloir et commencez par fermer les fenêtres, vérifiez que les appareils sont éteints, puis fermez la porte.
-- Fermez les portes de stockage.
+- Rendez-vous au fond du couloir et commencez par fermer les fenêtres, vérifiez que les appareils sont éteints, puis fermez à clé la porte.
 - Avancez dans le couloir et répétez les étapes pour toutes les salles du makerspace.
 
-Maintenant, il reste Unimakers à fermer. Déposez la clef du makerspace dans la servante, fermez la porte du local avec la clef de l'association.
+Maintenant, il reste Le bureau des salariée à fermer. Déposez la clef du makerspace dans le bureau des salariée, fermez la porte du local avec la clef de l'association.
 
 Ces clefs ne doivent en aucun cas quitter l'étage, à l'exception d'un cas :
 * Il est 19h passé et l'agent de sécurité est passé pour fermer les labos et le gestionnaire du makerspace est absent.
-  - Dans ce cas, vous prenez la clef avec vous, et vous fermez la porte de l'étage également. Redéposez ces clefs le plus rapidement possible le lendemain pour vos collègues. Ce sont également les seules clefs qui peuvent ouvrir les portes du stockage au fond de l'étage.
+  - Dans ce cas, vous prenez la clef avec vous, et vous fermez la porte de l'étage également. Redéposez ces clefs le plus rapidement possible le lendemain pour vos collègues.

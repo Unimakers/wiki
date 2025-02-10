@@ -17,7 +17,7 @@ Ce projet wiki a pour but de vous montrer comment gérér l'association sans dev
 
 - **Objectif 1** : Vous donnez un HeadStart.
 - **Objectif 2** : Faciliter la prise en main des outils de l'association.
-- **Objectif 3** : Repondre aux question déja posée dans le passé avant votre temps.
+- **Objectif 3** : Repondre aux question déja posée par vos ancetres.
 
 ---
 

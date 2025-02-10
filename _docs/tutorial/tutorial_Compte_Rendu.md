@@ -63,7 +63,7 @@ Je vous propose une modele, permettant d'accélerer votre prise de note.
 
 On le sait tous, tu n'écrivera pas tout pendant la réunion, n'hesite pas a demander que l'animateur de la réunion note les points et les grandes lignes sur le tableau, ca permettra a toi de suivre la reunion
 et de noter ce qui te manque pour que tu puisse finir le rapport.
-Si tu remarque des personnes prendre des notes, demande si il veulent 
+Si tu remarque des personnes prendre des notes, demande si il veulent te partager ce qu'il ont noté.
 
 ## A quel point doit-je aller dans le détail?
 

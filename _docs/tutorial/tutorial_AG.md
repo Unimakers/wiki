@@ -3,7 +3,7 @@ layout: documentation
 hide_hero: false
 hero_image: "result.png"
 hero_darken: true
-image: "result.png"
+image: "IconAG.png"
 component_toc: true
 doc_header: true
 type: tutorial

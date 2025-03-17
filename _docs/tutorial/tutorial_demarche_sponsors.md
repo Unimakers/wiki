@@ -17,14 +17,6 @@ time: 2
 difficulty: 1
 compatibilities-os: win, mac, lin
 
-prerequisites:
-  - label: Word
-    link: ""
-
-softwares: 
-  - label: Word
-    link: ""
-todo: 50
 ---
 # Intro
 
@@ -59,6 +51,3 @@ Les services fournis par nos sponsors (s'il y en a et qu'ils sont pertinents) so
 
 {% include message.html title="Quelques Astuces" message="- N'hésitez à vous inspirez des différents mails présentés.
 - Déléguer des tâches aux autres membres s'il souhaite aider et qu'il y a beaucoup de travail." status="is-info" icon="fas fa-info-circle" %}
-
-
-(à compléter)
